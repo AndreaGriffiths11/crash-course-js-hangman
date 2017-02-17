@@ -1,4 +1,4 @@
-# Hangman Crash Course
+# Hangman Crash Course Somsak
 
 This repository is for the Hangman crash course in JavaScript led by [The Iron Yard](http://theironyard.com). The intent is to allow students to start with an HTML and CSS file and then build the JavaScript game in the crash course.
 
